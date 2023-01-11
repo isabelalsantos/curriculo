@@ -1,0 +1,117 @@
+.center1 {
+    display: block;
+    width: 100%;
+    height: 8cm;
+  }
+
+.title >h1 {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: -165px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.title >p{
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  font-style: italic;
+}
+
+.abtMe{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  margin-top: 110px;
+  color: gray;
+}
+
+.myDescription {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: gray;
+  font-size: 13px;
+  margin-top: -5px;
+}
+
+.line1{
+  height: 0.5px;
+  border: 0;
+  background: rgb(215, 215, 215);
+}
+
+.cntExp{
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+
+.cntExp >h5{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.line2{
+  height: 3px;
+  width:30px;
+  border: 0;
+  background: #bcb0d3;
+}
+
+.lblEp >p{
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  font-weight: bold;
+}
+
+.dateEp >p{
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  font-size: 11px;
+  margin-top: -10px;
+}
+
+.txtEp >p{
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  font-size: 15px;
+}
+
+.col{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+}
+
+.txtEp >ul{
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  font-size: 15px;
+  margin-left:20px;
+}
+
+.backcolor1 {
+  background-color: #b7afc6;
+  padding: 40px;
+  height: 300px;
+}
+
+.pic >img{ 
+  text-align: right;
+  margin-left:380px;
+}
+
+.lblContact >p{
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  color:white;
+  font-size:20px;
+}
+
+.txtContact >p{
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+  color:white;
+  font-size:15px;
+  margin-top:-15px;
+}
