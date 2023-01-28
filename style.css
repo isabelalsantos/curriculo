@@ -97,6 +97,7 @@
 }
 
 .pic >img{ 
+  width: 35%;
   text-align: right;
   margin-left:380px;
 }
@@ -114,4 +115,97 @@
   color:white;
   font-size:15px;
   margin-top:-15px;
+}
+
+@media screen and (max-width: 1190px) {
+  .pic >img {
+    width: 50%;
+    text-align: right;
+    margin-left: 200px;
+}
+}
+
+@media screen and (max-width: 1000px){
+  .pic >img {
+    width: 65%;
+    text-align: right;
+    margin-left: 100px;
+}
+}
+
+@media screen and (max-width: 750px){
+.pic >img {
+  width: 100%;
+  text-align: right;
+  margin-left: 0px;
+}
+}
+
+@media screen and (max-width: 530px){
+  .pic >img {
+    width: 150%;
+    text-align: right;
+    margin-left: -20px;
+}
+}
+
+@media screen and (max-width: 490px){
+  .pic >img {
+    width: 250%;
+    text-align: center;
+    margin-left: -30px;
+}
+}
+
+@media screen and (max-width: 470px){
+  .pic >img {
+    width: 450%;
+    text-align: center;
+    margin-left: -40px;
+}
+}
+
+@media screen and (max-width: 460px){
+  .pic >img {
+    width: 900%;
+    text-align: center;
+    margin-left: -40px;
+}
+}
+
+@media screen and (max-width: 450px){
+  .pic >img {
+    width: 4000%;
+    text-align: center;
+    margin-left: -40px;
+}
+}
+
+@media screen and (max-width: 448px){
+  .pic >img {
+    width: 5000%;
+    text-align: center;
+    margin-left: -40px;
+}
+}
+
+@media screen and (max-width: 447px){
+.pic >img {
+  width: 50%;
+  text-align: center;}
+
+.backcolor1 {
+    background-color: #b7afc6;
+    padding: 40px;
+    height: 500px;
+}
+}
+
+
+@media screen and (max-width: 380px) {
+  .backcolor1 {
+    background-color: #b7afc6;
+    padding: 40px;
+    height: 500px;
+}
 }
